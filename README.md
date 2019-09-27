@@ -1,1 +1,1 @@
-# spring-jersey-rxjava
+# Sample webapplication
